@@ -2,7 +2,7 @@
 
 A typical Anderson impurity Hamiltonian $\hat{H}_{\text{A}}$ contains two parts
 
-$$ \hat{H}_{\text{A}} = \hat{H}_{\text{loc}} + \hat{H}_{\text{bath}}, $$
+$$ \hat{H}_{\text{A}} $$
 
 $$\hat{H}_\text{loc} = \sum_{\\{\alpha\\}} \epsilon^0_{\alpha_1 \alpha_2} \hat{d}^{\dagger}_{\alpha_1} \hat{d}_{\alpha_2} + \sum_{\\{\alpha\\}} U_{\alpha_1 \alpha_2 \alpha_3 \alpha_4} \hat{d}^{\dagger}_{\alpha_1} \hat{d}^{\dagger}_{\alpha_2} \hat{d}_{\alpha_3} \hat{d}_{\alpha_4},$$
 
